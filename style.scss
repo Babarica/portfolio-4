@@ -32,7 +32,7 @@ button {
     margin-right: auto;
 }
 .header {
-    background-image: url(../img/header/cosmonavt.jpg);
+    background-image: url(img/header/cosmonavt.jpg);
     min-height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -122,7 +122,7 @@ button {
     margin-right: 134px;
 }
 .about {
-    background-image: url(../img/main/bg.jpg);
+    background-image: url(img/main/bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -206,7 +206,7 @@ button {
     color: #E5E5E5;
 }
 .how-to {
-    background-image: url(../img/main/bg-soz.jpg);
+    background-image: url(img/main/bg-soz.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
@@ -238,7 +238,7 @@ foreignObject {
     text-align: left;
 }
 .to-book {
-    background-image: url(../img/main/to-look.jpg);
+    background-image: url(img/main/to-look.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -261,7 +261,7 @@ foreignObject {
     }
 }
 .info {
-background-image: url(../img/main/info-bg.jpg);
+background-image: url(img/main/info-bg.jpg);
 background-position: top center;
 background-repeat: no-repeat;
 background-size: cover;
@@ -367,7 +367,7 @@ padding-bottom: 100px;
                 position: absolute;
                 right: 0;
                 bottom: 43px;
-                background-image: url(../img/main/cosm.png);
+                background-image: url(img/main/cosm.png);
                 width: 192px;
                 height: 150px;
             }
@@ -408,11 +408,11 @@ padding-bottom: 100px;
 }
 .slider .slick-arrow.slick-prev {
     left: 21%;
-    background: url(../img/main/arrow-left.svg) 0 0 / 100% repeat;
+    background: url(img/main/arrow-left.svg) 0 0 / 100% repeat;
 }
 .slider .slick-arrow.slick-next {
     right: 21%;
-    background: url(../img/main/arrow-right.svg) 0 0 / 100% repeat;
+    background: url(img/main/arrow-right.svg) 0 0 / 100% repeat;
 }
 .contacts {
     background-color: #010203;
@@ -471,7 +471,7 @@ padding-bottom: 100px;
     }
 }
 .footer {
-    background-image: url(../img/main/footer-bg.jpg);
+    background-image: url(img/main/footer-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
